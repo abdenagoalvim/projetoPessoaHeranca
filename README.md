@@ -32,3 +32,7 @@ Exercício de Java para alunos do 3o ano do Curso Técnico em Informática
     - toString():String
     - \<setters\>
     - \<getters\>
+   
+- Diagrama de Classe
+
+![Classe UML - Pessoa](https://github.com/abdenagoalvim/projetoPessoaHeranca/assets/116508758/07069d2f-e618-47ac-9300-9f3c14434f2a)
